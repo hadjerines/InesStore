@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/Module/products.dart';
 import 'package:flutter_app/screens/Cart/cart_screen.dart';
-import 'package:flutter_app/screens/Home/favorite.dart';
+import 'package:flutter_app/screens/favorite/favorite.dart';
 import 'package:flutter_app/screens/Home/home_screens.dart';
 
 class BottomNavBar extends StatefulWidget {

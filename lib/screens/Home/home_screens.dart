@@ -20,6 +20,7 @@ class _HomeScreensState extends State<HomeScreens> {
   int currentSlider = 0;
   @override
   Widget build(BuildContext context) {
+    List<List<Product>> selectdCategories = [];
     return Scaffold(
       backgroundColor: Colors.white,
       body: SingleChildScrollView(
